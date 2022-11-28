@@ -20,7 +20,7 @@ int main (void) {
     //nome = cos, propriedade = implementacao, tempo = ligacao
     //nome = val, propriedade = tipo, tempo = compilacao
     //nome = *, propriedade  = semantica, tempo = compilacao
-    //nome = int, propriedade  tamanho, tempo = implementacao
+    //nome = int, propriedade = tamanho, tempo = implementacao
 
     return val; 
 
